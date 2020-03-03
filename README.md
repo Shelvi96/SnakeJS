@@ -1,4 +1,3 @@
-"# SnakeJS" 
-"# SnakeJS" 
-"# SnakeJS" 
-"# SnakeJS" 
+# SnakeJS
+
+Simple Snake game in JavaScript.
